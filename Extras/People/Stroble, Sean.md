@@ -8,7 +8,7 @@ aliases:
 ---
 tags:: [[👥 People MOC]]
 
-# [[Sean Stroble]]
+# [[Stroble, Sean]]
 
 
 ## Notes
