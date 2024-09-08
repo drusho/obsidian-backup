@@ -12,7 +12,6 @@ actions:
   - type: templaterCreateNote
     templateFile: backup/Extras/Templates/Template, People.md
     fileName: Enter Name Here
-    filepath: /
     openNote: true
 
 ```
