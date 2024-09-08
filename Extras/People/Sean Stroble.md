@@ -1,15 +1,15 @@
 ---
-company: 
-location: 
+company: Google
+location: Boulder
 title: 
 email: 
 website: 
-aliases: 
+aliases:
 ---
 tags:: [[👥 People MOC]]
 
-# [[<% tp.file.title %>]]
-<% await tp.file.move("backup/Extras/People/" + tp.file.title) %>
+# [[Sean Stroble]]
+
 
 ## Notes
 - 
