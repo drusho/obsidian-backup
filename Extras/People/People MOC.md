@@ -1,6 +1,19 @@
 [[+Home]] #MOC
 
 ```meta-bind-button
+label: New People Note
+icon: ""
+hidden: false
+class: ""
+tooltip: ""
+id: ""
+style: default
+actions:
+  - type: templaterCreateNote
+    templateFile: backup/Extras/Templates/Template, People.md
+    folderPath: backup/Extras/People
+    fileName: Enter Name Here
+    openNote: true
 
 ```
 
