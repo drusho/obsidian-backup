@@ -4,29 +4,25 @@ Title: [Form, Function, & Fun! - My Obsidian Vault Tour [2024]](https://www.yout
 Source: Youtube
 Author: [CyanVoxel](https://www.youtube.com/@cyanvoxel)
 
-__Resources
-- [Colored Sidebar Snippet](https://github.com/CyanVoxel/Obsidian-Colored-Sidebar) 
-- [Daily Notes Snippet](https://github.com/CyanVoxel/Obsidian-Daily-Themes) 
-- [General Tweaks Snippet](https://github.com/CyanVoxel/Obsidian-Vault-Template/blob/main/Vault/.obsidian/snippets/CyanVoxel's%20General%20Tweaks.css)
-- [Notebook Themes Snippet](https://github.com/CyanVoxel/Obsidian...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGtZbDY5SGxON0xINjlsV1lRV2RlR21jOGlaUXxBQ3Jtc0tuTEthQnpPQTVYd3RwM21WREgtXzZlSV96TmEzb3BTTFdibThYeXdqa3F2cEdFaG42RVQ3RElDcUZYRlRLV1V4ZkRoLV9FUk1EcHpTSm1nTnNtc1JsSlhaOURlUFR1LW9kMnFJaWdDdXpFUDU5Q21xVQ&q=https%3A%2F%2Fgithub.com%2FCyanVoxel%2FObsidian-Notebook-Themes&v=rAkerV8rlow) 
-- [Vault Template](https://github.com/CyanVoxel/Obsidian-Vault-Template) 
-- [Video Game Theme Snippet](https://github.com/CyanVoxel/Obsidian-Game-Themes) 
 
-Obsidian Plugins: 
-- Daily Notes 
-- Unique Notes 
-- Calendar 
-- Excalidraw 
-- Spaced Repetition 
-- Advanced Slides 
-- Templater 
-- Iconize 
-- Smart Typography 
-- Homepage 
-- Recent Files 
-- Completr 
-- Paste URL Into Selection 
-- Text Format 
-- Tag Wrangler 
-- Settings Search 
-- Importer
+
+__Zettelkasten Method
+1. __Fleeting__ - Temporary notes.  Meant as a jumping off point for future thinking and review
+2. __Literature__ - Notes and resources created by others.  Articles, Notes, Videos, ect.
+3. __Permanent__ - Combination of __Fleeting__ and __Literature__ notes.  Using linking to reference notes across each other, this is what Obsidian is designed around.
+
+__PARA Method
+1. __Projects__ - short-term things that have a due date or completion date
+2. __Areas__
+3. __Resources__
+4. __Archives__
+
+Maps of Content (MOC)
+Projects
+Areas
+Resources
+Permanent
+Fleeting
+Daily
+Archives
+Meta
