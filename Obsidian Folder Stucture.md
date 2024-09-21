@@ -5,17 +5,27 @@ Source: Youtube
 Author: [CyanVoxel](https://www.youtube.com/@cyanvoxel)
 
 
+## Zettelkasten Method
+<p>
+<i>The Zettelkasten Method is a note-taking and knowledge management system popularized by German sociologist Niklas Luhmann. It involves creating individual notes on paper slips or cards, linking them together through subject headings or metadata, and organizing them in a way that facilitates connections between ideas for improved memory retention and knowledge building.</i>
+</p>
+- Zenkit - [A Beginner's Guilde to the Zettelkasten Method](https://zenkit.com/en/blog/a-beginners-guide-to-the-zettelkasten-method/)
+### Fleeting
+Temporary notes.  Meant as a jumping off point for future thinking and review
+### Literature
+Notes and resources created by others.  Articles, Notes, Videos, ect.
+### Permanent
+Combination of __Fleeting__ and __Literature__ notes.  Using linking to reference notes across each other, this is what Obsidian is designed around.
 
-__Zettelkasten Method
-1. __Fleeting__ - Temporary notes.  Meant as a jumping off point for future thinking and review
-2. __Literature__ - Notes and resources created by others.  Articles, Notes, Videos, ect.
-3. __Permanent__ - Combination of __Fleeting__ and __Literature__ notes.  Using linking to reference notes across each other, this is what Obsidian is designed around.
+---
+## PARA Method
+### Projects
+Short-term things that have a due date or completion date
+### Areas
+### Resources
+### Archives
 
-__PARA Method
-1. __Projects__ - short-term things that have a due date or completion date
-2. __Areas__
-3. __Resources__
-4. __Archives__
+---
 
 Maps of Content (MOC)
 Projects
