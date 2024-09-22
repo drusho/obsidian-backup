@@ -1,58 +1,63 @@
 
 ## Plugins
-### Advanced Slides 
 
-### Calendar 
+__Advanced Slides__
 
-### Completr 
+**Calendar** 
 
-### Colored Sidebar Snippet
+**Completr** 
+
+**Colored Sidebar Snippet**
 [Colored Sidebar Snippet](https://github.com/CyanVoxel/Obsidian-Colored-Sidebar) 
 
-### Daily Notes
+**Daily Notes**
 [Daily Notes Snippet](https://github.com/CyanVoxel/Obsidian-Daily-Themes)
 
-### Excalidraw 
+**Dataview**
+https://github.com/blacksmithgu/obsidian-dataview
 
-### General Tweaks Snippet
+**Excalidraw** 
+
+**General Tweaks Snippet**
 [General Tweaks Snippet](https://github.com/CyanVoxel/Obsidian-Vault-Template/blob/main/Vault/.obsidian/snippets/CyanVoxel's%20General%20Tweaks.css)
-### [[Git]]
+
+**[[Git]]**
 [The Easiest Way to Connect Your Obsidian Vault with Github](https://linked-blog-starter.vercel.app/connect-obsidian-vault-with-github)
 
-### Homepage 
+**Homepage** 
 
-### Iconize 
+**Iconize** 
 
-### Importer
+**Importer**
 
-### Notebook Themes Snippet
+**Notebook Themes Snippet**
 [Notebook Themes Snippet](https://github.com/CyanVoxel/Obsidian-Notebook-Themes) 
 
-### Paste URL Into Selection 
+**Paste URL Into Selection** 
 
-### People Note Template
+**People Note Template**
 - [people-note-template/](https://dannb.org/blog/2022/obsidian-people-note-template/)
 - [My Obsidian Physical Object System](https://dannb.org/blog/2024/obsidian-physical-object-template/)
 - [YT: Obsidian Physical Objects System and template](https://www.youtube.com/watch?v=v4qc-GNrv7Q&t=0s) #video
 
-### Recent Files
+**Recent Files**
 
-### Settings Search 
+**Settings Search** 
 
-### Spaced Repetition 
+**Spaced Repetition** 
 
-### Smart Typography 
+**Smart Typography** 
 
-### Tag Wrangler 
+**Tag Wrangler** 
 
-### Templater 
+**Templater** 
 
-### Text Format 
+**Text Format** 
 
-### Unique Notes 
+**Unique Notes** 
 
-### Valt Template
+**Valt Template**
 [Vault Template](https://github.com/CyanVoxel/Obsidian-Vault-Template) 
 
-### Video Game Theme Snippet
-[Video Game Theme Snippet](https://github.com/CyanVoxel/Obsidian-Game-Themes) 
+**Video Game Theme Snippet**
+- [Video Game Theme Snippet](https://github.com/CyanVoxel/Obsidian-Game-Themes) 
