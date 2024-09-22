@@ -1,10 +1,11 @@
-
-
 ---
-title: [Form, Function, & Fun! - My Obsidian Vault Tour [2024]](https://www.youtube.com/watch?v=rAkerV8rlow&t=485s)
-source: Youtube
-author: [CyanVoxel](https://www.youtube.com/@cyanvoxel)
-
+title: Form, Function, & Fun! - My Obsidian Vault Tour [2024]
+date: 
+author: CyanVoxel
+source type: Video
+source: https://www.youtube.com/watch?v=rAkerV8rlow&t=485s
+tags: 
+cssclasses:
 ---
 
 ## Zettelkasten Method
