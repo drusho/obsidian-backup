@@ -9,7 +9,7 @@ aliases:
 tags:: [[👥 People MOC]]
 
 # [[<% tp.file.title %>]]
-<% await tp.file.move("backup/Extras/People/" + tp.file.title) %>
+<% await tp.file.move("main_vault/07 - Permanent/People/" + tp.file.title) %>
 
 ## Notes
 - 
