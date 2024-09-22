@@ -7,4 +7,9 @@ tags:: Permanent
 
 
 [[SQL Terminology]]
-- 
+
+## Questions
+
+1. What is a database?
+2. What is SQL?
+3. 
