@@ -1,6 +1,6 @@
 ---
 title: Form, Function, & Fun! - My Obsidian Vault Tour [2024]
-date: 
+date: [[2024-09-22]]
 author: CyanVoxel
 source type: Video
 source: https://www.youtube.com/watch?v=rAkerV8rlow&t=485s
