@@ -18,8 +18,8 @@ INSERT
 DELETE
 
 ### Windows Functions
-ROW_NUMBER
-RANK
+ROW_NUMBER()
+RANK()
 
 
 [Denormalization](https://www.geeksforgeeks.org/denormalization-in-databases) 
