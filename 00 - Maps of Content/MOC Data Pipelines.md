@@ -11,6 +11,9 @@ Data Pipeline Resources Collection
 [[Overview of Data Pipeline - GeeksforGeeks]]
 [[What Is A Data Pipeline? Definition, Process, And Examples]]
 
+[[Types of Database Management Systems - GeeksforGeeks]]
+
+
 
 Main take aways
 - Basic Steps and whys for each step
