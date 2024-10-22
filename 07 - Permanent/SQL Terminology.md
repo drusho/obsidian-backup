@@ -21,6 +21,7 @@ DELETE
 ROW_NUMBER()
 RANK()
 
+[[Denormalization in Databases - GeeksforGeeks]]
 
 [Denormalization](https://www.geeksforgeeks.org/denormalization-in-databases) 
 [Query](obsidian://open?vault=main&file=main_vault%2F06%20-%20Literature%2FGeeksForGeeks%20-%20SQL%20Interview%20Questions14. What is a query?)
