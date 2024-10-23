@@ -1,14 +1,13 @@
+
+General SQL Articles
 ```dataview
-list FROM #sql 
-WHERE !contains(Questions, "#Questions")
+LIST FROM #sql 
+WHERE !contains(file.tags, "#questions")
 ```
 
-SQL Resources Collection
+SQL Interview Articles
 
-[[FANG SQL Interview Question and Answers]]
-[[SQL Commands DDL, DQL, DML, DCL and TCL With Examples]]
-[[Joins in DBMS - GeeksforGeeks]]
-[[Database Schemas - GeeksforGeeks]]
-
-[[SQL Interview Questions]]
-[[Top 45+ SQL Query Interview Questions and Answers (2024)]]
+```dataview
+LIST FROM #sql 
+WHERE contains(file.tags, "#questions")
+```
