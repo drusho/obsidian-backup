@@ -11,8 +11,7 @@ author:
 published: 2022-07-10T15:57:50+00:00, 2022-07-10T15:57:50+00:00, https://www.facebook.com/AnalyticsVidhya/, https://x.com/analyticsvidhya, https://www.linkedin.com/company/analytics-vidhya,   https://www.linkedin.com/in/chetan-dekate-97a827196/
 created: 2024-10-22
 description: "The data pipeline is a set of functions, tools, and techniques to process raw data, and manage the variability, volume, and speed of data."
-tags:
-  - "clippings"
+tags: pipeline, data, engineering
 ---
 ## Introduction
 

@@ -1,5 +1,5 @@
 ```dataview
-list FROM #sql
+list FROM #sql WHERE list NOT in #questions
 ```
 
 SQL Resources Collection

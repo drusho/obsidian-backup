@@ -10,8 +10,7 @@ author:
 published: 2023-09-21T12:45:00.000Z, https://twitter.com/DataCamp, https://www.linkedin.com/school/datacampinc/mycompany/, https://www.facebook.com/datacampinc/, https://www.youtube.com/c/Datacamp
 created: 2024-10-22
 description: "This tutorial covers the basics of data pipelines and terminology for aspiring data professionals, including pipeline uses, common technology, and tips for pipeline building."
-tags:
-  - "clippings"
+tags: data, pipeline, engineering
 ---
 ## Why Use Data Pipelines?
 

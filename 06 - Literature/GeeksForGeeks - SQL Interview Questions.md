@@ -5,8 +5,8 @@ author: geeksforgeeks
 source type: 
 source:  https://www.geeksforgeeks.org/sql-interview-questions/
 cssclasses:
+tags: sql, interview, questions
 ---
-tags:: Literature
 
 
 # SQL Interview Questions

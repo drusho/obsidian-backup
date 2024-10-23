@@ -10,8 +10,7 @@ author:
 published: 2024-09-18 10:21:57, https://www.facebook.com/geeksforgeeks.org/, https://twitter.com/geeksforgeeks, https://www.linkedin.com/company/1299009, https://www.youtube.com/geeksforgeeksvideos/
 created: 2024-10-22
 description: "A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions."
-tags:
-  - "clippings"
+tags: data, pipeline, engineering
 ---
 Last Updated : 25 Sep, 2024
 

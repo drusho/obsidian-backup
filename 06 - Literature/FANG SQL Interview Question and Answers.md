@@ -5,6 +5,7 @@ author: Sameen
 source type: Blog
 source:  Medium
 cssclasses:
+tags: sql, interview, questions
 ---
 tags:: Literature
 
