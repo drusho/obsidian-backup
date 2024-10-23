@@ -1,14 +1,15 @@
 ---
-title: "Data Pipeline Monitoring- 5 Strategies To Stop Bad Data"
-source: "https://www.montecarlodata.com/blog-data-pipeline-monitoring/"
+title: Data Pipeline Monitoring- 5 Strategies To Stop Bad Data
+source: https://www.montecarlodata.com/blog-data-pipeline-monitoring/
 author:
-  - "[[Person]]"
-  - "[[Organization]]"
-  - "[[Barr Moses]]"
-published: Person, Organization, 2024-02-01T20:22:00-08:00, 2024-02-01T20:22:00-08:00
+  - "Barr Moses"
+published: 2024-02-01T20:22:00-08:00
 created: 2024-10-22
-description: "Here are three data pipeline monitoring strategies the best data teams are leveraging to detect and prevent bad data from corrupting their pipelines."
-tags: data, pipeline, engineering
+description: Here are three data pipeline monitoring strategies the best data teams are leveraging to detect and prevent bad data from corrupting their pipelines.
+tags:
+  - data
+  - pipeline
+  - engineering
 ---
 For data teams, bad data, broken data pipelines, stale dashboards, and 5 a.m. fire drills are par for the course, particularly as [data workflows](https://www.montecarlodata.com/blog-the-art-of-data-workflows-a-step-by-step-guide/) ingest more and more data from disparate sources. That’s where data pipeline monitoring comes in.
 

@@ -1,20 +1,14 @@
 ---
-title: "Data Pipelines"
-source: "https://www.databricks.com/glossary/data-pipelines"
-author:
-  - "[[kg:/m/0120wgnc]]"
-  - "[[https://www.wikidata.org/wiki/Q18350420]]"
-  - "[[https://en.wikipedia.org/wiki/Databricks]]"
-  - "[[https://twitter.com/databricks]]"
-  - "[[https://www.databricks.com/feed]]"
-  - "[[https://www.youtube.com/c/Databricks]]"
-  - "[[https://www.facebook.com/pages/Databricks/560203607379694]]"
-  - "[[https://www.linkedin.com/company/databricks]]"
-  - "[[https://www.glassdoor.com/Overview/Working-at-Databricks-EI_IE954734.11,21.htm]]"
-published: 06/16/2023, kg:/m/0120wgnc, https://www.wikidata.org/wiki/Q18350420, https://en.wikipedia.org/wiki/Databricks, https://twitter.com/databricks, https://www.databricks.com/feed, https://www.youtube.com/c/Databricks, https://www.facebook.com/pages/Databricks/560203607379694, https://www.linkedin.com/company/databricks, https://www.glassdoor.com/Overview/Working-at-Databricks-EI_IE954734.11,21.htm
+title: Data Pipelines
+source: https://www.databricks.com/glossary/data-pipelines
+author: Databricks
+published: 06/16/2023
 created: 2024-10-22
-description: "Data pipelines can improve data quality, streamline data management and gain valuable business insights. Find the answers to all your questions here."
-tags: data, pipeline, engineering
+description: Data pipelines can improve data quality, streamline data management and gain valuable business insights. Find the answers to all your questions here.
+tags:
+  - data
+  - pipeline
+  - engineering
 ---
 ## What are cloud data pipelines?
 

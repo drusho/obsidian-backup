@@ -1,7 +1,7 @@
 ---
 title: SQL Interview Questions
 date: [[2024-07-05]]
-author: geeksforgeeks
+author: GeeksforGeeks
 source type: 
 source:  https://www.geeksforgeeks.org/sql-interview-questions/
 cssclasses:

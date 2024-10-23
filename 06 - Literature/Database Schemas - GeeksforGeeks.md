@@ -1,16 +1,14 @@
 ---
-title: "Database Schemas - GeeksforGeeks"
-source: "https://www.geeksforgeeks.org/database-schemas/"
-author:
-  - "[[GeeksforGeeks]]"
-  - "[[https://www.facebook.com/geeksforgeeks.org/]]"
-  - "[[https://twitter.com/geeksforgeeks]]"
-  - "[[https://www.linkedin.com/company/1299009]]"
-  - "[[https://www.youtube.com/geeksforgeeksvideos/]]"
-published: 2023-03-26 07:50:09, https://www.facebook.com/geeksforgeeks.org/, https://twitter.com/geeksforgeeks, https://www.linkedin.com/company/1299009, https://www.youtube.com/geeksforgeeksvideos/
+title: Database Schemas - GeeksforGeeks
+source: https://www.geeksforgeeks.org/database-schemas/
+author: GeeksforGeeks
+published: 2023-03-26 07:50:09
 created: 2024-10-22
-description: "A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions."
-tags: database, schemas, sql
+description: A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions.
+tags:
+  - database
+  - schemas
+  - sql
 ---
 Nowadays data is one of the most important things in the business world, every business captures its customers data to understand their behavior, in the world of the internet, data is growing like crazy, so businesses need more advanced database solutions by which they can maintain the database systems and whenever they need data to solve business problems, they can easily get what data they want without any problem. To fulfill this condition, there is a requirement for the database schema in the picture.
 

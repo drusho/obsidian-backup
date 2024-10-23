@@ -1,16 +1,15 @@
 ---
-title: "Top 45+ SQL Query Interview Questions and Answers (2024)"
-source: "https://www.geeksforgeeks.org/sql-query-interview-questions/"
+title: Top 45+ SQL Query Interview Questions and Answers (2024)
+source: https://www.geeksforgeeks.org/sql-query-interview-questions/
 author:
-  - "[[GeeksforGeeks]]"
-  - "[[https://www.facebook.com/geeksforgeeks.org/]]"
-  - "[[https://twitter.com/geeksforgeeks]]"
-  - "[[https://www.linkedin.com/company/1299009]]"
-  - "[[https://www.youtube.com/geeksforgeeksvideos/]]"
-published: 2024-01-08 12:06:43, https://www.facebook.com/geeksforgeeks.org/, https://twitter.com/geeksforgeeks, https://www.linkedin.com/company/1299009, https://www.youtube.com/geeksforgeeksvideos/
+  - "GeeksforGeeks"
+published: 2024-01-08 12:06:43
 created: 2024-10-22
-description: "Prepare for your SQL query interviews with confidence! Explore the top 30+ SQL query interview questions and expert answers for 2024. Enhance your skills and ace your SQL interviews effortlessly."
-tags: sql, interview, questions
+description: Prepare for your SQL query interviews with confidence! Explore the top 30+ SQL query interview questions and expert answers for 2024. Enhance your skills and ace your SQL interviews effortlessly.
+tags:
+  - sql
+  - interview
+  - questions
 ---
 
 ****SQL**** or ****Structured Query Language**** is a standard language for relational databases. SQL queries are powerful tools used to, manipulate, and manage data stored in these databases like ****MySQL****, ****Oracle****, ****PostgreSQL****, etc. Whether you’re fetching specific data points, performing complex analyses, or modifying database structures, SQL queries provide a standardized language for executing these tasks efficiently.

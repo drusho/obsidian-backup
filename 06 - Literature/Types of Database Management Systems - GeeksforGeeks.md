@@ -1,16 +1,14 @@
 ---
-title: "Types of Database Management Systems - GeeksforGeeks"
-source: "https://www.geeksforgeeks.org/types-of-database-management-systems/"
+title: Types of Database Management Systems - GeeksforGeeks
+source: https://www.geeksforgeeks.org/types-of-database-management-systems/
 author:
-  - "[[GeeksforGeeks]]"
-  - "[[https://www.facebook.com/geeksforgeeks.org/]]"
-  - "[[https://twitter.com/geeksforgeeks]]"
-  - "[[https://www.linkedin.com/company/1299009]]"
-  - "[[https://www.youtube.com/geeksforgeeksvideos/]]"
-published: 2024-06-28 12:54:18, https://www.facebook.com/geeksforgeeks.org/, https://twitter.com/geeksforgeeks, https://www.linkedin.com/company/1299009, https://www.youtube.com/geeksforgeeksvideos/
+  - "GeeksforGeeks"
+published: 2024-06-28 12:54:18
 created: 2024-10-22
-description: "A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions."
-tags: database, sql
+description: A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions.
+tags:
+  - database
+  - sql
 ---
 A Database Management System (DBMS) is a software system that is designed to manage and organize data in a structured manner. It allows users to create, modify, and query a database, as well as manage the security and access controls for that database.
 

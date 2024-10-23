@@ -1,16 +1,14 @@
 ---
 title: "SQL Commands: DDL, DQL, DML, DCL and TCL With Examples"
-source: "https://www.geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/"
+source: https://www.geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/
 author:
-  - "[[GeeksforGeeks]]"
-  - "[[https://www.facebook.com/geeksforgeeks.org/]]"
-  - "[[https://twitter.com/geeksforgeeks]]"
-  - "[[https://www.linkedin.com/company/1299009]]"
-  - "[[https://www.youtube.com/geeksforgeeksvideos/]]"
-published: 2017-11-06 04:15:38, https://www.facebook.com/geeksforgeeks.org/, https://twitter.com/geeksforgeeks, https://www.linkedin.com/company/1299009, https://www.youtube.com/geeksforgeeksvideos/
+  - "GeeksforGeeks"
+published: 2017-11-06 04:15:38
 created: 2024-10-22
 description: "Unlock the power of SQL commands: DDL, DML, DCL, TCL, DQL with syntax. Explore this comprehensive guide to become proficient in SQL commands."
-tags: database, sql
+tags:
+  - database
+  - sql
 ---
 ****SQL commands**** are extensively used to ****interact with databases****, enabling users to perform a wide range of actions on database systems. Understanding these commands is crucial for effectively managing and manipulating data.
 

@@ -1,16 +1,14 @@
 ---
-title: "Denormalization in Databases - GeeksforGeeks"
-source: "https://www.geeksforgeeks.org/denormalization-in-databases/"
+title: Denormalization in Databases - GeeksforGeeks
+source: https://www.geeksforgeeks.org/denormalization-in-databases/
 author:
-  - "[[GeeksforGeeks]]"
-  - "[[https://www.facebook.com/geeksforgeeks.org/]]"
-  - "[[https://twitter.com/geeksforgeeks]]"
-  - "[[https://www.linkedin.com/company/1299009]]"
-  - "[[https://www.youtube.com/geeksforgeeksvideos/]]"
-published: 2018-02-18 08:01:35, https://www.facebook.com/geeksforgeeks.org/, https://twitter.com/geeksforgeeks, https://www.linkedin.com/company/1299009, https://www.youtube.com/geeksforgeeksvideos/
+  - "GeeksforGeeks"
+published: 2018-02-18 08:01:35
 created: 2024-10-22
-description: "A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions."
-tags: database, sql
+description: A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions.
+tags:
+  - database
+  - sql
 ---
 Last Updated : 30 Sep, 2024
 

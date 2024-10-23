@@ -1,16 +1,15 @@
 ---
-title: "Joins in DBMS - GeeksforGeeks"
-source: "https://www.geeksforgeeks.org/joins-in-dbms/"
+title: Joins in DBMS - GeeksforGeeks
+source: https://www.geeksforgeeks.org/joins-in-dbms/
 author:
   - "[[GeeksforGeeks]]"
-  - "[[https://www.facebook.com/geeksforgeeks.org/]]"
-  - "[[https://twitter.com/geeksforgeeks]]"
-  - "[[https://www.linkedin.com/company/1299009]]"
-  - "[[https://www.youtube.com/geeksforgeeksvideos/]]"
-published: 2023-10-09 12:15:34, https://www.facebook.com/geeksforgeeks.org/, https://twitter.com/geeksforgeeks, https://www.linkedin.com/company/1299009, https://www.youtube.com/geeksforgeeksvideos/
+published: 2023-10-09 12:15:34
 created: 2024-10-22
-description: "A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions."
-tags: database, sql, joins
+description: A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions.
+tags:
+  - database
+  - sql
+  - joins
 ---
 A join is an operation that combines the rows of two or more tables based on related columns. This operation is used for retrieving the data from multiple tables simultaneously using common columns of tables. In this article, we are going to discuss every point about joins.
 

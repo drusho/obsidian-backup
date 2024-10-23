@@ -1,17 +1,14 @@
 ---
-title: "All About Data Pipeline and Its Components"
-source: "https://www.analyticsvidhya.com/blog/2022/07/all-about-data-pipeline-and-its-components/"
-author:
-  - "[[Chetan]]"
-  - "[[https://www.analyticsvidhya.com/blog/2022/07/all-about-data-pipeline-and-its-components/]]"
-  - "[[https://www.facebook.com/AnalyticsVidhya/]]"
-  - "[[https://x.com/analyticsvidhya]]"
-  - "[[https://www.linkedin.com/company/analytics-vidhya]]"
-  - "[[  https://www.linkedin.com/in/chetan-dekate-97a827196/]]"
-published: 2022-07-10T15:57:50+00:00, 2022-07-10T15:57:50+00:00, https://www.facebook.com/AnalyticsVidhya/, https://x.com/analyticsvidhya, https://www.linkedin.com/company/analytics-vidhya,   https://www.linkedin.com/in/chetan-dekate-97a827196/
+title: All About Data Pipeline and Its Components
+source: https://www.analyticsvidhya.com/blog/2022/07/all-about-data-pipeline-and-its-components/
+author: Chetan
+published: 2022-07-10T15:57:50+00:00
 created: 2024-10-22
-description: "The data pipeline is a set of functions, tools, and techniques to process raw data, and manage the variability, volume, and speed of data."
-tags: pipeline, data, engineering
+description: The data pipeline is a set of functions, tools, and techniques to process raw data, and manage the variability, volume, and speed of data.
+tags:
+  - pipeline
+  - data
+  - engineering
 ---
 ## Introduction
 

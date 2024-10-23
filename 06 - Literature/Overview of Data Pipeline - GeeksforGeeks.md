@@ -1,16 +1,15 @@
 ---
-title: "Overview of Data Pipeline - GeeksforGeeks"
-source: "https://www.geeksforgeeks.org/overview-of-data-pipeline/"
+title: Overview of Data Pipeline - GeeksforGeeks
+source: https://www.geeksforgeeks.org/overview-of-data-pipeline/
 author:
-  - "[[GeeksforGeeks]]"
-  - "[[https://www.facebook.com/geeksforgeeks.org/]]"
-  - "[[https://twitter.com/geeksforgeeks]]"
-  - "[[https://www.linkedin.com/company/1299009]]"
-  - "[[https://www.youtube.com/geeksforgeeksvideos/]]"
-published: 2021-08-10 09:33:18, https://www.facebook.com/geeksforgeeks.org/, https://twitter.com/geeksforgeeks, https://www.linkedin.com/company/1299009, https://www.youtube.com/geeksforgeeksvideos/
+  - "GeeksforGeeks"
+published: 2021-08-10 09:33:18
 created: 2024-10-22
-description: "A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions."
-tags: data, pipeline, engineering
+description: A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions.
+tags:
+  - data
+  - pipeline
+  - engineering
 ---
 A data pipeline is a set of tools and processes for collecting, processing, and delivering data from one or more sources to a destination where it can be analyzed and used. Nowadays in the 21st generation, we must cope with each and every piece of information or data we get. When we usually hear about pipelines, we suddenly think about those natural gas and oil pipelines that carry those resources from one location to another over long distances. But here we are going to know about the data pipelines.
 

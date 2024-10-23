@@ -1,16 +1,14 @@
 ---
-title: "Data Pipeline Design Patterns - System Design - GeeksforGeeks"
-source: "https://www.geeksforgeeks.org/data-pipeline-design-patterns-system-design/"
-author:
-  - "[[GeeksforGeeks]]"
-  - "[[https://www.facebook.com/geeksforgeeks.org/]]"
-  - "[[https://twitter.com/geeksforgeeks]]"
-  - "[[https://www.linkedin.com/company/1299009]]"
-  - "[[https://www.youtube.com/geeksforgeeksvideos/]]"
-published: 2024-09-18 10:21:57, https://www.facebook.com/geeksforgeeks.org/, https://twitter.com/geeksforgeeks, https://www.linkedin.com/company/1299009, https://www.youtube.com/geeksforgeeksvideos/
+title: Data Pipeline Design Patterns - System Design - GeeksforGeeks
+source: https://www.geeksforgeeks.org/data-pipeline-design-patterns-system-design/
+author: GeeksforGeeks
+published: 2024-09-18 10:21:57
 created: 2024-10-22
-description: "A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions."
-tags: data, pipeline, engineering
+description: A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions.
+tags:
+  - data
+  - pipeline
+  - engineering
 ---
 Last Updated : 25 Sep, 2024
 

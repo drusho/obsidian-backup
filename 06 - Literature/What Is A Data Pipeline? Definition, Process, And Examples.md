@@ -1,16 +1,15 @@
 ---
-title: "What Is A Data Pipeline? Definition, Process, And Examples"
-source: "https://estuary.dev/what-is-a-data-pipeline/"
+title: What Is A Data Pipeline? Definition, Process, And Examples
+source: https://estuary.dev/what-is-a-data-pipeline/
 author:
-  - "[[https://twitter.com/EstuaryDev]]"
-  - "[[https://www.linkedin.com/company/estuary-tech/]]"
-  - "[[https://www.youtube.com/channel/UCJ9JIjh7uaUdjcFR6xTkJXQ]]"
-  - "[[https://www.crunchbase.com/organization/estuary]]"
-  - "[[Jeffrey Richman]]"
-published: https://twitter.com/EstuaryDev, https://www.linkedin.com/company/estuary-tech/, https://www.youtube.com/channel/UCJ9JIjh7uaUdjcFR6xTkJXQ, https://www.crunchbase.com/organization/estuary, 2022-09-27
+  - "Jeffrey Richman"
+published: 2022-09-27
 created: 2024-10-22
-description: "Dive deep into the realm of Data Pipeline with our comprehensive blog. Explore efficient data ingestion, processing, and analysis for actionable insights."
-tags: data, pipeline, engineering
+description: Dive deep into the realm of Data Pipeline with our comprehensive blog. Explore efficient data ingestion, processing, and analysis for actionable insights.
+tags:
+  - data
+  - pipeline
+  - engineering
 ---
 If you’re wondering what a data pipeline is, what processes it entails, and some examples you can look at, this article is for you. We’ll define the term and the process and cover some examples.
 

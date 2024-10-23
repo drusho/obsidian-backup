@@ -1,16 +1,14 @@
 ---
 title: "Building Scalable Data Pipelines: Tools and Techniques for Modern Data Engineering - GeeksforGeeks"
-source: "https://www.geeksforgeeks.org/building-scalable-data-pipelines-tools-and-techniques-for-modern-data-engineering/"
-author:
-  - "[[GeeksforGeeks]]"
-  - "[[https://www.facebook.com/geeksforgeeks.org/]]"
-  - "[[https://twitter.com/geeksforgeeks]]"
-  - "[[https://www.linkedin.com/company/1299009]]"
-  - "[[https://www.youtube.com/geeksforgeeksvideos/]]"
-published: 2024-08-29 05:22:30, https://www.facebook.com/geeksforgeeks.org/, https://twitter.com/geeksforgeeks, https://www.linkedin.com/company/1299009, https://www.youtube.com/geeksforgeeksvideos/
+source: https://www.geeksforgeeks.org/building-scalable-data-pipelines-tools-and-techniques-for-modern-data-engineering/
+author: GeeksforGeeks
+published: 2024-08-29 05:22:30
 created: 2024-10-22
-description: "A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions."
-tags: data, pipeline, engineering
+description: A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions.
+tags:
+  - data
+  - pipeline
+  - engineering
 ---
 
 Last Updated : 02 Sep, 2024

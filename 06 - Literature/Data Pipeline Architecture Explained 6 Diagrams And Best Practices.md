@@ -1,14 +1,15 @@
 ---
 title: "Data Pipeline Architecture Explained: 6 Diagrams And Best Practices"
-source: "https://www.montecarlodata.com/blog-data-pipeline-architecture-explained/"
+source: https://www.montecarlodata.com/blog-data-pipeline-architecture-explained/
 author:
-  - "[[Person]]"
-  - "[[Organization]]"
-  - "[[Michael Segner]]"
-published: Person, Organization, 2023-03-21T17:24:00-08:00, 2023-03-21T17:24:00-08:00
+  - "Michael Segner"
+published: 2023-03-21T17:24:00-08:00
 created: 2024-10-22
-description: "Level up your data pipeline architecture knowledge with this detailed explainer with helpful images and diagrams."
-tags: data, pipeline, engineering
+description: Level up your data pipeline architecture knowledge with this detailed explainer with helpful images and diagrams.
+tags:
+  - data
+  - pipeline
+  - engineering
 ---
 *In this post, we will help you quickly level up your overall knowledge of data pipeline architecture by reviewing:*
 
