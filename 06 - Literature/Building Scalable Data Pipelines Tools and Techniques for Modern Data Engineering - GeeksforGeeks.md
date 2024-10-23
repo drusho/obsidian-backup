@@ -12,6 +12,7 @@ created: 2024-10-22
 description: "A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions."
 tags: data, pipeline, engineering
 ---
+
 Last Updated : 02 Sep, 2024
 
 In today’s data-driven world, scalable data pipelines are crucial for organizations aiming to harness the full potential of their data assets. Data pipelines are responsible for collecting, transforming, and delivering data from disparate sources to various target systems. With the increasing volume, velocity, and variety of data, building scalable and efficient data pipelines has become a core competency for modern data engineering.
