@@ -1,6 +1,6 @@
 ```dataview
 list FROM #sql 
-WHERE !title = "questions"
+WHERE !contains(Questions, "#Questions")
 ```
 
 SQL Resources Collection
