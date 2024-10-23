@@ -1,5 +1,5 @@
 ```dataview
-list from [[sql]] and outgoint([[]])
+list FROM #sql
 ```
 
 SQL Resources Collection
