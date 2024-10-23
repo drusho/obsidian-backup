@@ -1,3 +1,7 @@
+```dataview
+list from [[sql]] and outgoint([[]])
+```
+
 SQL Resources Collection
 
 [[FANG SQL Interview Question and Answers]]
