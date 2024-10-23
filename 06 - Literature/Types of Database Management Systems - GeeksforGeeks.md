@@ -20,7 +20,7 @@ A [DBMS (Database Management System)](https://www.geeksforgeeks.org/introduction
 
 ### 1\. Hierarchical DBMS
 
-- [Hierarchical DBMS](https://www.geeksforgeeks.org/hierarchical-model-in-dbms/) organizes data in a tree-like structure with parent-child relationships.
+- [[Hierarchical Model in DBMS - GeeksforGeeks]] organizes data in a tree-like structure with parent-child relationships.
 - Each parent can have multiple children, but a child can have only one parent.
 - Data navigation is done through paths.
 
