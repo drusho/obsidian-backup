@@ -4,7 +4,6 @@ source: https://www.geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/
 author:
   - "GeeksforGeeks"
 published: 2017-11-06 04:15:38
-created: 2024-10-22
 description: "Unlock the power of SQL commands: DDL, DML, DCL, TCL, DQL with syntax. Explore this comprehensive guide to become proficient in SQL commands."
 tags:
   - database
