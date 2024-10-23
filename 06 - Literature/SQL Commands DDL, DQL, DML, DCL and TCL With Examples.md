@@ -16,19 +16,22 @@ This guide will introduce you to the various SQL sublanguage commands, including
 Here we covered ****all Important SQL commands****, including their ****syntax**** and ****examples****.
 
 Table of Content
-# [[Table of Contents]]: Videos  
-#### Section:: PKM
+- [[#Short Overview of SQL|Short Overview of SQL]]
+	- [[#Short Overview of SQL#SQL Commands are mainly categorized into five categories:|SQL Commands are mainly categorized into five categories:]]
+- [[#DDL (Data Definition Language)|DDL (Data Definition Language)]]
+	- [[#DDL (Data Definition Language)#List of DDL Commands:|List of DDL Commands:]]
+- [[#DQL (Data Query Language)|DQL (Data Query Language)]]
+	- [[#DQL (Data Query Language)#DQL Command|DQL Command]]
+- [[#DML (Data Manipulation Language)|DML (Data Manipulation Language)]]
+	- [[#DML (Data Manipulation Language)#List of DML commands|List of DML commands]]
+- [[#**DCL (Data Control Language)**|**DCL (Data Control Language)**]]
+	- [[#**DCL (Data Control Language)**#List of  DCL commands:|List of  DCL commands:]]
+- [[#****TCL (Transaction Control Language)****|****TCL (Transaction Control Language)****]]
+	- [[#****TCL (Transaction Control Language)****#List of TCL Commands|List of TCL Commands]]
+- [[#Important SQL Commands|Important SQL Commands]]
+- [[#SQL Commands With Examples|SQL Commands With Examples]]
+- [[#Conclusion|Conclusion]]
 
-- [Short Overview of SQL](##short-overview-of-sql)
-- [DDL (Data Definition Language)](https://www.geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/#ddl-data-definition-language)
-- [DQL (Data Query Language)](https://www.geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/#dql-data-query-language)
-- [DML (Data Manipulation Language)](https://www.geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/#dmldata-manipulation-language)
-- [DCL (Data Control Language)](https://www.geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/#dcl-data-control-language)
-- [TCL (Transaction Control Language)](https://www.geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/#tcl-transaction-control-language)
-- [Important SQL Commands](https://www.geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/#important-sql-commands)
-- [SQL Commands With Examples](https://www.geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/#sql-commands-with-examples)
-
-But before heading to the SQL command section, let’s briefly introduce SQL.
 
 ## Short Overview of SQL
 
