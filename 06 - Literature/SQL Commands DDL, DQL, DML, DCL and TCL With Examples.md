@@ -16,8 +16,10 @@ This guide will introduce you to the various SQL sublanguage commands, including
 Here we covered ****all Important SQL commands****, including their ****syntax**** and ****examples****.
 
 Table of Content
+# [[Table of Contents]]: Videos  
+#### Section:: PKM
 
-- [Short Overview of SQL](https://www.geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/#short-overview-of-sql)
+- [Short Overview of SQL](##short-overview-of-sql)
 - [DDL (Data Definition Language)](https://www.geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/#ddl-data-definition-language)
 - [DQL (Data Query Language)](https://www.geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/#dql-data-query-language)
 - [DML (Data Manipulation Language)](https://www.geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/#dmldata-manipulation-language)
