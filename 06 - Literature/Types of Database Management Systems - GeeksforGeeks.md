@@ -2,13 +2,43 @@
 title: Types of Database Management Systems - GeeksforGeeks
 source: https://www.geeksforgeeks.org/types-of-database-management-systems/
 author:
-  - "GeeksforGeeks"
+  - GeeksforGeeks
 published: 2024-06-28 12:54:18
 description: A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions.
 tags:
   - database
   - sql
 ---
+
+## Table of Contents 
+- [[#What is DBMS?|What is DBMS?]]
+- [[#Types of Database Management Systems|Types of Database Management Systems]]
+	- [[#Types of Database Management Systems#1. Hierarchical DBMS|1. Hierarchical DBMS]]
+	- [[#Types of Database Management Systems#2. Network DBMS|2. Network DBMS]]
+	- [[#Types of Database Management Systems#3. Relational DBMS (RDBMS)|3. Relational DBMS (RDBMS)]]
+	- [[#Types of Database Management Systems#4. NoSQL DBMS|4. NoSQL DBMS]]
+	- [[#Types of Database Management Systems#5. Object Oriented DBMS (ODBMS)|5. Object Oriented DBMS (ODBMS)]]
+	- [[#Types of Database Management Systems#6. Graph-based DBMS|6. Graph-based DBMS]]
+	- [[#Types of Database Management Systems#7. Document Database|7. Document Database]]
+	- [[#Types of Database Management Systems#8. Centralized Database|8. Centralized Database]]
+	- [[#Types of Database Management Systems#Distributed Database|Distributed Database]]
+- [[#Examples with Outputs|Examples with Outputs]]
+	- [[#Examples with Outputs#Example 1: Relational DBMS (MySQL)|Example 1: Relational DBMS (MySQL)]]
+		- [[#Example 1: Relational DBMS (MySQL)#Create Table and Insert Data:|Create Table and Insert Data:]]
+		- [[#Example 1: Relational DBMS (MySQL)#Select Data:|Select Data:]]
+	- [[#Examples with Outputs#Example 2: NoSQL DBMS (MongoDB)|Example 2: NoSQL DBMS (MongoDB)]]
+		- [[#Example 2: NoSQL DBMS (MongoDB)#Insert Document and Find Document:|Insert Document and Find Document:]]
+	- [[#Examples with Outputs#Example 3: Hierarchical DBMS (IBM IMS)|Example 3: Hierarchical DBMS (IBM IMS)]]
+		- [[#Example 3: Hierarchical DBMS (IBM IMS)#Define Segment and Field|Define Segment and Field]]
+- [[#Conclusion|Conclusion]]
+- [[#Frequently Asked Questions on Types of DBMS – FAQs|Frequently Asked Questions on Types of DBMS – FAQs]]
+	- [[#Frequently Asked Questions on Types of DBMS – FAQs#What are the key factors to consider when choosing a DBMS?|What are the key factors to consider when choosing a DBMS?]]
+	- [[#Frequently Asked Questions on Types of DBMS – FAQs#What is the difference between SQL and NoSQL databases?|What is the difference between SQL and NoSQL databases?]]
+	- [[#Frequently Asked Questions on Types of DBMS – FAQs#What are some popular examples of relational DBMSs?|What are some popular examples of relational DBMSs?]]
+	- [[#Frequently Asked Questions on Types of DBMS – FAQs#What are some popular examples of NoSQL DBMSs?|What are some popular examples of NoSQL DBMSs?]]
+
+---
+
 A Database Management System (DBMS) is a software system that is designed to manage and organize data in a structured manner. It allows users to create, modify, and query a database, as well as manage the security and access controls for that database.
 
 ## What is DBMS?
@@ -17,7 +47,7 @@ A [[Introduction of DBMS (Database Management System)]] is a software or technol
 
 ## Types of Database Management Systems
 
-### 1\. Hierarchical DBMS
+### 1. Hierarchical DBMS
 
 - [[Hierarchical Model in DBMS - GeeksforGeeks]] organizes data in a tree-like structure with parent-child relationships.
 - Each parent can have multiple children, but a child can have only one parent.
@@ -37,7 +67,7 @@ GET /employees/123/projects/456
 
 This retrieves project 456 for employee 123.
 
-### 2\. Network DBMS
+### 2. Network DBMS
 
 - [Network DBMS](https://www.geeksforgeeks.org/network-model-in-dbms/) allows more flexible relationships, where a child can have multiple parents.
 - Uses a network model with sets and records.
@@ -63,7 +93,7 @@ FIND owner OF project 456
 
 This finds the owner(s) of project 456.
 
-### 3\. Relational DBMS (RDBMS)
+### 3. Relational DBMS (RDBMS)
 
 - [Relational DBMS](https://www.geeksforgeeks.org/relational-model-in-dbms/) stores data in tables with rows and columns.
 - Relationships are established using keys.
@@ -95,7 +125,7 @@ SELECT * FROM employees WHERE salary > 50000
 
 This retrieves all employees with a salary greater than 50000.
 
-### 4\. NoSQL DBMS
+### 4. NoSQL DBMS
 
 - [NoSQL DBMS](https://www.geeksforgeeks.org/introduction-to-nosql/) is designed for handling large volumes of unstructured or [semi-structured data.](https://www.geeksforgeeks.org/what-is-semi-structured-data/)
 - Includes document databases, key-value stores, column-family stores, and graph databases.
@@ -121,7 +151,7 @@ db.inventory.find( { status: "A" } )
 
 This retrieves inventory items with status “A” in MongoDB.
 
-### 5\. Object Oriented DBMS (ODBMS)
+### 5. Object Oriented DBMS (ODBMS)
 
 - [Object Oriented DBMS](https://www.geeksforgeeks.org/definition-and-overview-of-odbms/) stores data as objects, which can have attributes and methods.
 - Supports [inheritance](https://www.geeksforgeeks.org/inheritance-in-c/), [encapsulation](https://www.geeksforgeeks.org/encapsulation-in-cpp/), and [polymorphism](https://www.geeksforgeeks.org/cpp-polymorphism/).
@@ -147,7 +177,7 @@ SELECT e.name FROM employees e WHERE e.age > 30
 
 This retrieves the names of employees older than 30.
 
-### 6\. Graph-based DBMS
+### 6. Graph-based DBMS
 
 - [Graph-based DBMS](https://www.geeksforgeeks.org/what-is-graph-database/) stores data in graph structures with nodes (entities) and edges (relationships).
 - Uses graph query languages like Gremlin or SPARQL.
@@ -178,7 +208,7 @@ g.V().has('name', 'Alice').out('knows').values('name')
 
 This retrieves the names of people Alice knows.
 
-### 7\. Document Database
+### 7. Document Database
 
 - [Document Database](https://www.geeksforgeeks.org/document-databases-in-nosql/) stores data in flexible, semi-structured documents (e.g., JSON, XML, BSON).
 - No predefined schema, allowing for [dynamic data structures](https://www.geeksforgeeks.org/static-data-structure-vs-dynamic-data-structure/).
@@ -204,7 +234,7 @@ db.collection.find({field: "value"})
 
 This retrieves documents from a collection where a specific field matches the given value.
 
-### 8\. Centralized Database
+### 8. Centralized Database
 
 - [Centralized Database](https://www.geeksforgeeks.org/difference-between-centralized-database-and-distributed-database/) is used to stored data in a single, central location.
 - Easier to manage and maintain data consistency.

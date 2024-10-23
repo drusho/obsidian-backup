@@ -16,21 +16,22 @@ This guide will introduce you to the various SQL sublanguage commands, including
 Here we covered **all Important SQL commands**, including their **syntax** and **examples**.
 
 **Table of Content**
-[[#Short Overview of SQL|Short Overview of SQL]]
-- [[#Short Overview of SQL#Five Categories of SQL Commands|Five Categories of SQL Commands]]
-[[#DDL (Data Definition Language)|DDL (Data Definition Language)]]
-- [[#DDL (Data Definition Language)#List of DDL Commands:|List of DDL Commands:]]
- [[#DQL (Data Query Language)|DQL (Data Query Language)]]
-- [[#DQL (Data Query Language)#DQL Command|DQL Command]]
- [[#DML (Data Manipulation Language)|DML (Data Manipulation Language)]]
-- [[#DML (Data Manipulation Language)#List of DML commands|List of DML commands]]
- [[#DCL (Data Control Language)|DCL (Data Control Language)]]
-- [[#**DCL (Data Control Language)**#List of  DCL commands:|List of  DCL commands:]]
- [[#TCL (Transaction Control Language)|TCL (Transaction Control Language)]]
-- [[#****TCL (Transaction Control Language)****#List of TCL Commands|List of TCL Commands]]
-- [[#Important SQL Commands|Important SQL Commands]]
-- [[#SQL Commands With Examples|SQL Commands With Examples]]
-- [[#Conclusion|Conclusion]]
+
+1. [[#Short Overview of SQL|Short Overview of SQL]]
+	- [[#Short Overview of SQL#Five Categories of SQL Commands|Five Categories of SQL Commands]]
+2. [[#DDL (Data Definition Language)|DDL (Data Definition Language)]]
+	- [[#DDL (Data Definition Language)#List of DDL Commands:|List of DDL Commands:]]
+3. [[#DQL (Data Query Language)|DQL (Data Query Language)]]
+	- [[#DQL (Data Query Language)#DQL Command|DQL Command]]
+4. [[#DML (Data Manipulation Language)|DML (Data Manipulation Language)]]
+	- [[#DML (Data Manipulation Language)#List of DML commands|List of DML commands]]
+5. [[#DCL (Data Control Language)|DCL (Data Control Language)]]
+	- [[#**DCL (Data Control Language)**#List of  DCL commands:|List of  DCL commands:]]
+6. [[#TCL (Transaction Control Language)|TCL (Transaction Control Language)]]
+	- [[#****TCL (Transaction Control Language)****#List of TCL Commands|List of TCL Commands]]
+7. [[#Important SQL Commands|Important SQL Commands]]
+8. [[#SQL Commands With Examples|SQL Commands With Examples]]
+9. [[#Conclusion|Conclusion]]
 
 ---
 ## Short Overview of SQL
