@@ -14,7 +14,7 @@ A Database Management System (DBMS) is a software system that is designed to man
 
 ## What is DBMS?
 
-A [DBMS (Database Management System)](https://www.geeksforgeeks.org/introduction-of-dbms-database-management-system-set-1/) is a software or technology used to manage data from a database. It allows users to store, modify and retrieve data in an organized way. It also provides security to the database.
+A [[Introduction of DBMS (Database Management System)]] is a software or technology used to manage data from a database. It allows users to store, modify and retrieve data in an organized way. It also provides security to the database.
 
 ## Types of Database Management Systems
 
