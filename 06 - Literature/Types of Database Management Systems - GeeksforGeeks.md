@@ -4,7 +4,6 @@ source: https://www.geeksforgeeks.org/types-of-database-management-systems/
 author:
   - "GeeksforGeeks"
 published: 2024-06-28 12:54:18
-created: 2024-10-22
 description: A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions.
 tags:
   - database
@@ -30,7 +29,7 @@ A [[Introduction of DBMS (Database Management System)]] is a software or technol
 DBD NAME(database_name)SEGM NAME(segment_name)FIELD NAME(field_name), BYTES(bytes), START(start_byte)
 ```
 
-****Example:****
+**Example:**
 
 ```
 GET /employees/123/projects/456

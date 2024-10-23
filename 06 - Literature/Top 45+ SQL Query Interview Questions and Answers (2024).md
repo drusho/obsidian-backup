@@ -4,7 +4,6 @@ source: https://www.geeksforgeeks.org/sql-query-interview-questions/
 author:
   - "GeeksforGeeks"
 published: 2024-01-08 12:06:43
-created: 2024-10-22
 description: Prepare for your SQL query interviews with confidence! Explore the top 30+ SQL query interview questions and expert answers for 2024. Enhance your skills and ace your SQL interviews effortlessly.
 tags:
   - sql
@@ -12,9 +11,9 @@ tags:
   - questions
 ---
 
-****SQL**** or ****Structured Query Language**** is a standard language for relational databases. SQL queries are powerful tools used to, manipulate, and manage data stored in these databases like ****MySQL****, ****Oracle****, ****PostgreSQL****, etc. Whether you’re fetching specific data points, performing complex analyses, or modifying database structures, SQL queries provide a standardized language for executing these tasks efficiently.
+**SQL** or **Structured Query Language** is a standard language for relational databases. SQL queries are powerful tools used to, manipulate, and manage data stored in these databases like **MySQL**, **Oracle**, **PostgreSQL**, etc. Whether you’re fetching specific data points, performing complex analyses, or modifying database structures, SQL queries provide a standardized language for executing these tasks efficiently.
 
-Here, we will cover ****45+ MySQL interview questions with answers**** that are commonly asked during ****interviews for Data Analyst**** and ****Data Engineer**** positions at MAANG and other high-paying companies. Whether you are a ****fresher**** or an ****experienced professional**** with ****5****, ****8****, or ****10 years**** of experience, this article gives you all the confidence you need to ace your next interview.
+Here, we will cover **45+ MySQL interview questions with answers** that are commonly asked during **interviews for Data Analyst** and **Data Engineer** positions at MAANG and other high-paying companies. Whether you are a **fresher** or an **experienced professional** with **5**, **8**, or **10 years** of experience, this article gives you all the confidence you need to ace your next interview.
 
 ## SQL Query Interview Questions and Answers
 
@@ -33,7 +32,7 @@ We have created three sample tables: Student Table, Program Table, and Scholarsh
 | 207 | Pankaj | Vats | 9.78 | 2021-09-01 02:30:00 | English |
 | 208 | Navleen | Kaur | 7.00 | 2021-09-01 06:30:00 | Mathematics |
 
-### ****Program Table****
+### **Program Table**
 
 | STUDENT\_REF\_ID | PROGRAM\_NAME | PROGRAM\_START\_DATE |
 | --- | --- | --- |
@@ -46,7 +45,7 @@ We have created three sample tables: Student Table, Program Table, and Scholarsh
 | 206 | History | 2021-09-01 00:00:00 |
 | 203 | Biology | 2021-09-01 00:00:00 |
 
-### ****Scholarship Table****
+### **Scholarship Table**
 
 | STUDENT\_REF\_ID | SCHOLARSHIP\_AMOUNT | SCHOLARSHIP\_DATE |
 | --- | --- | --- |

@@ -3,7 +3,6 @@ title: Database Schemas - GeeksforGeeks
 source: https://www.geeksforgeeks.org/database-schemas/
 author: GeeksforGeeks
 published: 2023-03-26 07:50:09
-created: 2024-10-22
 description: A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions.
 tags:
   - database

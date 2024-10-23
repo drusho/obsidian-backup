@@ -4,7 +4,6 @@ source: https://www.montecarlodata.com/blog-data-pipeline-architecture-explained
 author:
   - "Michael Segner"
 published: 2023-03-21T17:24:00-08:00
-created: 2024-10-22
 description: Level up your data pipeline architecture knowledge with this detailed explainer with helpful images and diagrams.
 tags:
   - data

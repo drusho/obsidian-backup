@@ -4,7 +4,6 @@ source: https://estuary.dev/what-is-a-data-pipeline/
 author:
   - "Jeffrey Richman"
 published: 2022-09-27
-created: 2024-10-22
 description: Dive deep into the realm of Data Pipeline with our comprehensive blog. Explore efficient data ingestion, processing, and analysis for actionable insights.
 tags:
   - data

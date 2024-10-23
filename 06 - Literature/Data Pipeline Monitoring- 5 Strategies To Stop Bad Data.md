@@ -4,7 +4,6 @@ source: https://www.montecarlodata.com/blog-data-pipeline-monitoring/
 author:
   - "Barr Moses"
 published: 2024-02-01T20:22:00-08:00
-created: 2024-10-22
 description: Here are three data pipeline monitoring strategies the best data teams are leveraging to detect and prevent bad data from corrupting their pipelines.
 tags:
   - data

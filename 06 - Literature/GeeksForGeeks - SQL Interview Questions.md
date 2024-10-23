@@ -415,7 +415,7 @@ For more details please refer [Difference between Clustered index and the No-Cl
 
 Control statements form an important part of most languages since they control the execution of other sets of statements. These are found in SQL too and should be exploited for uses such as query filtering and query optimization through careful selection of tuples that match our requirements. In this post, we explore the Case-Switch statement in SQL. The CASE statement is SQL’s way of handling if/then logic.
 
-****Syntax 1:****
+**Syntax 1:**
 
 > CASE case_value WHEN when_value THEN statement_list [WHEN when_value THEN statement_list] … [ELSE statement_list]END CASE
 
@@ -431,26 +431,26 @@ For more details, please read the [SQL | Case Statement](https://www.geeksforge
 
 There are three types of case manipulation functions available in SQL. They are, 
 
-- ****LOWER****: The purpose of this function is to return the string in lowercase. It takes a string as an argument and returns the string by converting it into lower case.   
+- **LOWER**: The purpose of this function is to return the string in lowercase. It takes a string as an argument and returns the string by converting it into lower case.   
     ****Syntax:**** 
 
 > LOWER(‘string’)
 
-- ****UPPER****: The purpose of this function is to return the string in uppercase. It takes a string as an argument and returns the string by converting it into uppercase.   
+- **UPPER**: The purpose of this function is to return the string in uppercase. It takes a string as an argument and returns the string by converting it into uppercase.   
     ****Syntax:****
 
 > UPPER(‘string’)
 
-- ****INITCAP****: The purpose of this function is to return the string with the first letter in uppercase and the rest of the letters in lowercase.   
+- **INITCAP**: The purpose of this function is to return the string with the first letter in uppercase and the rest of the letters in lowercase.   
     ****Syntax:**** 
 
 > INITCAP(‘string’)
 
 ### 49. What are local and global variables and their differences?
 
-****Global Variable:**** In contrast, global variables are variables that are defined outside of functions. These variables have global scope, so they can be used by any function without passing them to the function as parameters.
+**Global Variable:** In contrast, global variables are variables that are defined outside of functions. These variables have global scope, so they can be used by any function without passing them to the function as parameters.
 
-****Local Variable:**** Local variables are variables that are defined within functions. They have local scope, which means that they can only be used within the functions that define them.
+**Local Variable:** Local variables are variables that are defined within functions. They have local scope, which means that they can only be used within the functions that define them.
 
 ### 50. Name the function which is used to remove spaces at the end of a string?
 
@@ -474,17 +474,19 @@ In SQL, the spaces at the end of the string are removed by a trim function.
 
 For more details, please read the Difference between [DROP and TRUNCATE in](https://www.geeksforgeeks.org/difference-between-drop-and-truncate-in-sql) the [SQL](https://www.geeksforgeeks.org/difference-between-drop-and-truncate-in-sql)  article.
 
-### ****52. Which operator is used in queries for pattern matching?****
+### **52. Which operator is used in queries for pattern matching?**
 
 LIKE operator: It is used to fetch filtered data by searching for a particular pattern in the where clause.
 
-****Syntax:****
+**Syntax:**
 
-> ****SELECT column1,column2 FROM table_name WHERE column_name LIKE pattern;****
+> **SELECT column1, column2 
+> FROM table_name 
+> WHERE column_name LIKE pattern;**
 > 
 > LIKE: operator name
 
-### ****53. Define SQL Order by the statement?****
+### **53. Define SQL Order by the statement?**
 
 The ORDER BY statement in SQL is used to sort the fetched data in either ascending or descending according to one or more columns.
 
@@ -493,7 +495,7 @@ The ORDER BY statement in SQL is used to sort the fetched data in either ascendi
 
 For more details please read [SQL | ORDER BY](https://www.geeksforgeeks.org/sql-order-by) article.
 
-### ****54. Explain SQL Having statement?****
+### **54. Explain SQL Having statement?**
 
 HAVING is used to specify a condition for a group or an aggregate function used in the select statement. The WHERE clause selects before grouping. The HAVING clause selects rows after grouping. Unlike the HAVING clause, the WHERE clause cannot contain aggregate functions. See [Having vs Where Clause?](https://www.geeksforgeeks.org/having-vs-where-clause-in-sql) 
 
@@ -554,7 +556,7 @@ The ****MERGE**** command in SQL is actually a combination of three SQL statem
 
 The below statement could be used to get data from multiple tables, so, we need to use join to get data from multiple tables.
 
-****Syntax :****
+**Syntax :**
 
 > SELECT tablenmae1.colunmname, tablename2.columnnmae
 > 
@@ -613,15 +615,15 @@ These functions work with any data type and pertain to the use of null values in
 
 ****NVL(expr1, expr2):**** In SQL, NVL() converts a null value to an actual value. Data types that can be used are date, character, and number. Data types must match with each other. i.e. expr1 and expr2 must be of the same data type.
 
-****Syntax:****
+**Syntax:**
 
-> ****NVL (expr1, expr2)****
+> **NVL (expr1, expr2)**
 
-****NVL2(expr1, expr2, expr3):****  The NVL2 function examines the first expression. If the first expression is not null, then the NVL2 function returns the second expression. If the first expression is null, then the third expression is returned i.e. If expr1 is not null, NVL2 returns expr2. If expr1 is null, NVL2 returns expr3. The argument expr1 can have any data type.
+**NVL2(expr1, expr2, expr3):**  The NVL2 function examines the first expression. If the first expression is not null, then the NVL2 function returns the second expression. If the first expression is null, then the third expression is returned i.e. If expr1 is not null, NVL2 returns expr2. If expr1 is null, NVL2 returns expr3. The argument expr1 can have any data type.
 
-****Syntax:****
+**Syntax:**
 
-> ****NVL2 (expr1, expr2, expr3)****
+> **NVL2 (expr1, expr2, expr3)**
 
 For more details please read [SQL general functions | NVL,](https://www.geeksforgeeks.org/sql-general-functions-nvl-nvl2-decode-coalesce-nullif-lnnvl-nanvl) [NVL2, DECODE, COALESCE, NULLIF, LNNVL](https://www.geeksforgeeks.org/sql-general-functions-nvl-nvl2-decode-coalesce-nullif-lnnvl-nanvl), [and NANVL](https://www.geeksforgeeks.org/sql-general-functions-nvl-nvl2-decode-coalesce-nullif-lnnvl-nanvl) article.
 

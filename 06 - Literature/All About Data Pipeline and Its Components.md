@@ -3,7 +3,6 @@ title: All About Data Pipeline and Its Components
 source: https://www.analyticsvidhya.com/blog/2022/07/all-about-data-pipeline-and-its-components/
 author: Chetan
 published: 2022-07-10T15:57:50+00:00
-created: 2024-10-22
 description: The data pipeline is a set of functions, tools, and techniques to process raw data, and manage the variability, volume, and speed of data.
 tags:
   - pipeline
@@ -88,7 +87,7 @@ In this model, data is continuously imported and integrated into both collection
 
 ## Key Components of Data Pipeline
 
-1. **Data serialization**– Data editing defines common formats that make data easily and accessible and responsible for converting data objects into byte streams.
+1. **Data serialization** – Data editing defines common formats that make data easily and accessible and responsible for converting data objects into byte streams.
 2. **Event structures** – These structures identify actions and processes that lead to change in the system. Events are included for analysis and processing to assist in app-based decisions and user behavior.
 3. **Workflow management tools** – These tools help to organize activities within the pipeline based on directional dependence. These tools also facilitate the automation, monitoring, and management of piping processes.
 4. **Message bus** – Message buses are part of an important pipeline, which allows data interchange between systems and ensures the compatibility of different databases.
@@ -100,14 +99,14 @@ In this model, data is continuously imported and integrated into both collection
 
 In order to build efficient pipelines, recommended team processes include the simultaneous performance of tasks, the use of layered tools with built-in connections, investing in appropriate data processing tools, and enforcing catalog data processing and ownership.
 
-1. **Enable the Performance of Similar Tasks  
-**Multiple big data applications are used to carry out multiple data analysis tasks at a time. A modern data pipeline should be built with elastic, big, and shared patterns that can handle multiple data flows at a time. A well-designed pipeline should load and process data from all data flows, which DataOps teams can analyze to use.
-2. **Use Extensible Tools for Internal Connection  
-**Modern pipelines are built on a number of frameworks and tools that connect and interact. Inbuilt integration tools should be used to reduce time, labor, and cost to build connections between the various systems in the pipeline.
-3. **Invest in Proper Data Arguments  
-**Because inconsistencies often lead to poor data quality, it is recommended that the pipeline use appropriate data dismissal tools to resolve disagreements in different data companies. With clean data, DataOps teams can gather accurate data to make effective decisions.
-4. **Enable Data Entry Installation and Identity  
-**It is important to maintain the log of the data source, the business process that owns the database, and the user or process that accesses those databases. This provides complete visibility of data sets to use, which strengthens data quality reliability and authenticity.
+1. **Enable the Performance of Similar Tasks**  
+Multiple big data applications are used to carry out multiple data analysis tasks at a time. A modern data pipeline should be built with elastic, big, and shared patterns that can handle multiple data flows at a time. A well-designed pipeline should load and process data from all data flows, which DataOps teams can analyze to use.
+2. **Use Extensible Tools for Internal Connection**  
+Modern pipelines are built on a number of frameworks and tools that connect and interact. Inbuilt integration tools should be used to reduce time, labor, and cost to build connections between the various systems in the pipeline.
+3. **Invest in Proper Data Arguments**  
+Because inconsistencies often lead to poor data quality, it is recommended that the pipeline use appropriate data dismissal tools to resolve disagreements in different data companies. With clean data, DataOps teams can gather accurate data to make effective decisions.
+4. **Enable Data Entry Installation and Identity**  
+It is important to maintain the log of the data source, the business process that owns the database, and the user or process that accesses those databases. This provides complete visibility of data sets to use, which strengthens data quality reliability and authenticity.
 
 ## Conclusion
 

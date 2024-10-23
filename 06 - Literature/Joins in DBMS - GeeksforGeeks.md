@@ -4,7 +4,6 @@ source: https://www.geeksforgeeks.org/joins-in-dbms/
 author:
   - "[[GeeksforGeeks]]"
 published: 2023-10-09 12:15:34
-created: 2024-10-22
 description: A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions.
 tags:
   - database

@@ -3,7 +3,6 @@ title: An Introduction to Data Pipelines for Aspiring Data Professionals
 source: https://www.datacamp.com/tutorial/introduction-to-data-pipelines-for-data-professionals
 author: "Amberle McKee"
 published: 2023-09-21T12:45:00.000Z
-created: 2024-10-22
 description: This tutorial covers the basics of data pipelines and terminology for aspiring data professionals, including pipeline uses, common technology, and tips for pipeline building.
 tags:
   - data

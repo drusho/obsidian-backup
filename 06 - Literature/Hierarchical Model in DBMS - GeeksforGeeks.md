@@ -4,7 +4,6 @@ source: "https://www.geeksforgeeks.org/hierarchical-model-in-dbms/"
 author:
   - "GeeksforGeeks"
 published: 2021-07-01 06:35:05
-created:
 description: "A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions."
 tags:
   - "dbms"
@@ -68,10 +67,3 @@ Here, in this example, for each player, there are some set of positions (P\_POSI
 - This model also lacks flexibility as the changes in the new tables or segments often yield very complex system management tasks. Here, a deletion of one segment can lead to the involuntary deletion of all segments under it.
 - It has no standards as the implementation of this model does not provide any specific standard.
 - It is also limited as many of the common relationships do not conform to the 1 to N format as required by the hierarchical model.
-
-  
-  
-
-[![News](https://media.geeksforgeeks.org/auth-dashboard-uploads/Google-news.svg)](https://news.google.com/publications/CAAqBwgKMLTrzwsw44bnAw?hl=en-IN&gl=IN&ceid=IN%3Aen)
-
-Improve

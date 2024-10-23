@@ -9,9 +9,9 @@ tags:
   - database
   - sql
 ---
-****SQL commands**** are extensively used to ****interact with databases****, enabling users to perform a wide range of actions on database systems. Understanding these commands is crucial for effectively managing and manipulating data.
+**SQL commands** are extensively used to **interact with databases**, enabling users to perform a wide range of actions on database systems. Understanding these commands is crucial for effectively managing and manipulating data.
 
-This guide will introduce you to the various SQL sublanguage commands, including ****Data Definition Language**** (DDL), ****Data Query Language**** (DQL), ****Data Manipulation Language**** (DML), ****Data Control Language**** (DCL), and ****Transaction Control Language**** (TCL)
+This guide will introduce you to the various SQL sublanguage commands, including **Data Definition Language** (DDL), **Data Query Language** (DQL), **Data Manipulation Language** (DML), **Data Control Language** (DCL), and **Transaction Control Language** (TCL)
 
 Here we covered ****all Important SQL commands****, including their ****syntax**** and ****examples****.
 
@@ -30,25 +30,25 @@ But before heading to the SQL command section, let’s briefly introduce SQL.
 
 ## Short Overview of SQL
 
-[****Structured Query Language (SQL)****](https://www.geeksforgeeks.org/structured-query-language/), as we all know, is the database language by which we can perform certain operations on the existing database, and we can also use this language to create a database. SQL uses certain commands like CREATE, DROP, INSERT, etc. to carry out the required tasks. 
+[**Structured Query Language (SQL)**](https://www.geeksforgeeks.org/structured-query-language/), as we all know, is the database language by which we can perform certain operations on the existing database, and we can also use this language to create a database. SQL uses certain commands like CREATE, DROP, INSERT, etc. to carry out the required tasks. 
 
-****SQL Commands**** are like instructions to a table. It is used to interact with the database with some operations. It is also used to perform specific tasks, functions, and queries of data. SQL can perform various tasks like creating a table, adding data to tables, dropping the table, modifying the table, set permission for users.
+**SQL Commands** are like instructions to a table. It is used to interact with the database with some operations. It is also used to perform specific tasks, functions, and queries of data. SQL can perform various tasks like creating a table, adding data to tables, dropping the table, modifying the table, set permission for users.
 
 ### SQL Commands are mainly categorized into five categories: 
 
-1. ****DDL**** – Data Definition Language
-2. ****DQL**** – Data Query Language
-3. ****DML**** – Data Manipulation Language
-4. ****DCL**** – Data Control Language
-5. ****TCL**** – Transaction Control Language
+1. **DDL** – Data Definition Language
+2. **DQL** – Data Query Language
+3. **DML** – Data Manipulation Language
+4. **DCL** – Data Control Language
+5. **TCL** – Transaction Control Language
 
 Lets see all of these in detail.
 
 ![type of sql commands ](https://media.geeksforgeeks.org/wp-content/uploads/20210920153429/new.png)
 
-## ****DDL (Data Definition Language)****
+## DDL (Data Definition Language)
 
-[****DDL****](https://www.geeksforgeeks.org/features-of-structured-query-language-sql) ****or Data Definition Language**** actually consists of the SQL commands that can be used to define the database schema. It simply deals with descriptions of the database schema and is used to create and modify the structure of database objects in the database.
+[****DDL****](https://www.geeksforgeeks.org/features-of-structured-query-language-sql) **or Data Definition Language** actually consists of the SQL commands that can be used to define the database schema. It simply deals with descriptions of the database schema and is used to create and modify the structure of database objects in the database.
 
 DDL is a set of SQL commands used to create, modify, and delete database structures but not data. These commands are normally not used by a general user, who should be accessing the database via an application.
 
@@ -65,9 +65,9 @@ Here are all the main DDL (Data Definition Language) commands along with their s
 | [COMMENT](https://www.geeksforgeeks.org/sql-comments) | Add comments to the data dictionary | **`**COMMENT**`**` 'comment_text' ON TABLE table_name;` |
 | [RENAME](https://www.geeksforgeeks.org/sql-alter-rename) | Rename an object existing in the database | **`**RENAME**`**` TABLE old_table_name TO new_table_name;` |
 
-## ****DQL (Data Query Language)****
+## DQL (Data Query Language)
 
-****DQL**** statements are used for performing queries on the data within schema objects. The purpose of the DQL Command is to get some schema relation based on the query passed to it. We can define DQL as follows it is a component of SQL statement that allows getting data from the database and imposing order upon it. It includes the SELECT statement.
+**DQL** statements are used for performing queries on the data within schema objects. The purpose of the DQL Command is to get some schema relation based on the query passed to it. We can define DQL as follows it is a component of SQL statement that allows getting data from the database and imposing order upon it. It includes the SELECT statement.
 
 This command allows getting the data out of the database to perform operations with it. When a SELECT is fired against a table or tables the result is compiled into a further temporary table, which is displayed or perhaps received by the program i.e. a front-end.
 
@@ -79,7 +79,7 @@ There is only one DQL command in SQL i.e.
 | --- | --- | --- |
 | [****SELECT****](https://www.geeksforgeeks.org/sql-select-clause) | It is used to retrieve data from the database | `SELECT column1, column2, ...FROM table_name WHERE condition;` |
 
-## ****DML (Data Manipulation Language)****
+## DML (Data Manipulation Language)
 
 The SQL commands that deal with the manipulation of data present in the database belong to DML or Data Manipulation Language and this includes most of the SQL statements. 
 
@@ -98,7 +98,7 @@ Here are all the main DML (Data Manipulation Language) commands along with their
 | CALL | Call a PL/SQL or JAVA subprogram | **`**CALL **`** `procedure_name(arguments);` |
 | EXPLAIN PLAN | Describe the access path to data | **`**EXPLAIN**`****`**PLAN**`**` FOR SELECT * FROM table_name;` |
 
-## ****DCL (Data Control Language)****
+## **DCL (Data Control Language)**
 
 DCL includes commands such as GRANT and REVOKE which mainly deal with the rights, permissions, and other controls of the database system. 
 
@@ -132,16 +132,16 @@ Some TCL commands and their syntax are:
 
 Some of the most important SQL commands that you are likely to use frequently include:
 
-> 1. ****SELECT****: Used to retrieve data from a database.
-> 2. ****INSERT****: Used to add new data to a database.
-> 3. ****UPDATE****: Used to modify existing data in a database.
-> 4. ****DELETE****: Used to remove data from a database.
-> 5. ****CREATE TABLE****: Used to create a new table in a database.
-> 6. ****ALTER TABLE****: Used to modify the structure of an existing table.
-> 7. ****DROP TABLE****: Used to delete an entire table from a database.
-> 8. ****WHERE****: Used to filter rows based on a specified condition.
-> 9. ****ORDER BY****: Used to sort the result set in ascending or descending order.
-> 10. ****JOIN****: Used to combine rows from two or more tables based on a related column between them.
+> 1. **SELECT**: Used to retrieve data from a database.
+> 2. **INSERT**: Used to add new data to a database.
+> 3. **UPDATE**: Used to modify existing data in a database.
+> 4. **DELETE**: Used to remove data from a database.
+> 5. **CREATE TABLE**: Used to create a new table in a database.
+> 6. **ALTER TABLE**: Used to modify the structure of an existing table.
+> 7. **DROP TABLE**: Used to delete an entire table from a database.
+> 8. **WHERE**: Used to filter rows based on a specified condition.
+> 9. **ORDER BY**: Used to sort the result set in ascending or descending order.
+> 10. **JOIN**: Used to combine rows from two or more tables based on a related column between them.
 
 ## SQL Commands With Examples
 
@@ -163,17 +163,3 @@ The examples demonstrates how to use an SQL command. Here is the list of popular
 ## Conclusion
 
 SQL commands are the foundation of an effective database management system. Whether you are manipulating data, or managing data, SQL provides all sets of tools. Now, with this detailed guide, we hope you have gained a deep understanding of SQL commands, their categories, and syntax with examples.
-
-  
-
-"This course is very well structured and easy to learn. Anyone with zero experience of data science, python or ML can learn from this. This course makes things so easy that anybody can learn on their own. It's helping me a lot. Thanks for creating such a great course."-  **Ayushi Jain | Placed at Microsoft**
-
-Now's your chance to unlock high-earning job opportunities as a Data Scientist! Join our [**Complete Machine Learning & Data Science Program**](https://gfgcdn.com/tu/Qk5/) and get a 360-degree learning experience mentored by industry experts.
-
-Get hands on practice with **40+ Industry Projects, regular doubt solving sessions**, and much more. Register for the Program today!
-
-  
-
-[![News](https://media.geeksforgeeks.org/auth-dashboard-uploads/Google-news.svg)](https://news.google.com/publications/CAAqBwgKMLTrzwsw44bnAw?hl=en-IN&gl=IN&ceid=IN%3Aen)
-
-Improve

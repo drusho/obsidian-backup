@@ -3,7 +3,6 @@ title: Data Pipelines
 source: https://www.databricks.com/glossary/data-pipelines
 author: Databricks
 published: 06/16/2023
-created: 2024-10-22
 description: Data pipelines can improve data quality, streamline data management and gain valuable business insights. Find the answers to all your questions here.
 tags:
   - data

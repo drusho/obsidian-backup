@@ -4,7 +4,6 @@ source: https://www.geeksforgeeks.org/denormalization-in-databases/
 author:
   - "GeeksforGeeks"
 published: 2018-02-18 08:01:35
-created: 2024-10-22
 description: A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions.
 tags:
   - database
