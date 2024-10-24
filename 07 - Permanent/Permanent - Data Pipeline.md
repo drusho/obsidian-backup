@@ -16,3 +16,21 @@ In modern technology, extensive data applications rely on a microservice-based m
 
 A data pipeline is a set of tools and processes for collecting, processing, and delivering data from one or more sources to a destination where it can be analyzed and used. Nowadays in the 21st generation, we must cope with each and every piece of information or data we get. When we usually hear about pipelines, we suddenly think about those natural gas and oil pipelines that carry those resources from one location to another over long distances. But here we are going to know about the data pipelines.
 **source: [[Overview of Data Pipeline - GeeksforGeeks]]**
+
+
+A **data pipeline** is a system that takes data from its various sources and funnels it to its destination. It’s one component of an organization’s data infrastructure.
+**source: [[What Is A Data Pipeline? Definition, Process, And Examples]]**
+
+
+
+## Steps for Designing a Pipeline
+
+**1. Define stakeholders and their goals for the project**
+
+Data pipeline stakeholders in a company may include:
+- **Data engineers:** These are technical professionals who understand data pipelines in intricate detail. They build, monitor, and maintain the pipelines.
+- **Software engineers and IT professionals:** These are also technical professionals. They don’t work directly with pipelines, but their jobs are related.
+- **Data analysts and data scientists:** People who depend on data to generate insights for the company.
+- **Leadership:** In today’s world, data strategy can make or break a company. Understanding systems like data pipelines on a basic level is critical for leaders.
+- **Marketing, sales, and other professionals:** These are the “silent majority” of data stakeholders: people who use data, but don’t have the word “data” in their titles. They may rely on data visualization, dashboards, reports, and other data products to do their job effectively.
+**source: [[What Is A Data Pipeline? Definition, Process, And Examples]]**
