@@ -6,6 +6,7 @@ tags:
   - data
   - pipeline
   - engineering
+  - interview
 ---
 
 1. What is a database?
@@ -40,3 +41,6 @@ AKA: abstract data from sources and transfer it to the destination
 - **Storage Layer:** Held in data lakes, warehouses or other databases, data was kept for future reference or as a back up to be analyzed later.
 - **Monitoring Layer:** It is the authority that is charged with the responsibility of providing quality data in the right time and increasing the efficiency of the system.
 - **Consumption Layer**: Delivers the final data to BI tools or machine learning models where the data is analyzed at the next level for decision making.
+
+## Design Pattern
+**source: [[Data Pipeline Design Patterns - System Design - GeeksforGeeks]]**

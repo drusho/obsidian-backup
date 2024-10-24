@@ -48,7 +48,7 @@ Data pipelines are essential for moving, transforming, and processing data betwe
 
 ### 1. **Batch Processing Pattern**
 
-> In batch processing, data is collected over time and processed in bulk at scheduledintervals. This pattern is suitable for large volumes of data that don’t require immediate processing.
+> In batch processing, data is collected over time and processed in bulk at scheduled intervals. This pattern is suitable for large volumes of data that don’t require immediate processing.
 
 **Characteristics**
 - High throughput, as data is processed in bulk.
