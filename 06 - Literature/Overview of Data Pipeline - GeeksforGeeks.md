@@ -32,7 +32,7 @@ Table of Content
 - [Conclusion](https://www.geeksforgeeks.org/overview-of-data-pipeline/#conclusion)
 - [FAQs](https://www.geeksforgeeks.org/overview-of-data-pipeline/#faqs)
 
-## ****What is a Data Pipeline?****
+## **What is a Data Pipeline?**
 
 Data Pipeline deals with information that is flowing from one end to another. In simple words, we can say collecting the data from various resources than processing it as per requirement and transferring it to the destination by following some sequential activities. It is a set of manner that first extracts data from various resources and transforms it to a destination means it processes it as well as moves it from one system to another system.
 
@@ -42,28 +42,19 @@ Data Pipeline Overview
 
 ## **Why Data Pipelines are important?**
 
-Let’s think about a scenario where a data pipeline is helpful.
-
 The improvement of the cloud has meant that modern technology for enterprises uses lots of apps with different features. The retailing team might employ a combination of Hub spot and Market for trading automation. The other retailer teams mostly depend on Salesforce to handle and some might use [MongoDB](https://www.geeksforgeeks.org/mongodb-an-introduction/) for storing customer approaches. This leads to the waste of data across different tools and results in data silos. Data silos are nothing but they will create it difficult to fetch even business insights, like your most profitable market. It is most important for [Business Intelligence(BI)](https://www.geeksforgeeks.org/what-is-business-intelligence/) in their day-to-day life they require everyday information to work with.  
 
 ## **How to build a Data Pipeline?**
 
-An organization can decide the methods of development to be followed just to abstract data from sources and transfer it to the destination. Batch transforming and processing are two common methods of development. Then there is a decision on what transformation process- [ELT(Extract/Load/Transform) or ETL](https://www.geeksforgeeks.org/etl-process-in-data-warehouse/) -to use before the data is moved to the required destination.
+An organization can decide the methods of development to be followed just to abstract data from sources and transfer it to the destination. Batch transforming and processing are two common methods of development. Then there is a decision on what transformation process- [ELT(Extract/Load/Transform) or ETL](https://www.geeksforgeeks.org/etl-process-in-data-warehouse/) - to use before the data is moved to the required destination.
 
 ## **Challenges to building Data Pipeline**
-
-Netflix, has built its own data pipeline. However, building your own data pipeline is very difficult and time is taken.
-
-### Here are some common challenges to creating a data pipeline in-house:
-
 - Connection
 - [Flexibility](https://www.geeksforgeeks.org/flexibility-vs-security-in-system-design/)
 - [Centralization](https://www.geeksforgeeks.org/centralization-and-decentralization/)
 - [Latency](https://www.geeksforgeeks.org/what-is-latency/)
 
 ### **Components of Data Pipeline :**
-
-To know deep about how a data pipeline prepares large datasets for deconstruction, we have to know it is the main component of a common data pipeline. These are –
 
 1. Source
 2. Destination
@@ -91,8 +82,6 @@ Here is the representation of data Pipeline Architecture:
 
 ![Data-Pipeline-Architecture](https://media.geeksforgeeks.org/wp-content/uploads/20240923183152/Data-Pipeline-Architecture.webp)
 
-Data Pipeline Architecture
-
 - **Ingestion Layer**: It retrieves data from an assortment of sources ranging from databases to APIs or even event streams.
 - **Processing Layer:** Another operation on data involves the analysis of the said data followed by data cleaning through tools such as spark or Hadoop.
 - **Storage Layer:** Held in data lakes, warehouses or other databases, data was kept for future reference or as a back up to be analyzed later.
@@ -101,9 +90,7 @@ Data Pipeline Architecture
 
 ## Data Pipeline vs. ETL Pipeline
 
-Here’s a comparison between a Data Pipeline and an ETL (Extract, Transform, Load) Pipeline in a tabular format:
-
-| **Aspect**               | ****Data Pipeline****                                                                                                             | ****ETL Pipeline****                                                                                                                  |
+| **Aspect**               | **Data Pipeline**                                                                                                                 | **ETL Pipeline**                                                                                                                      |
 | ------------------------ | --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | **Purpose**              | General system for moving and processing data.                                                                                    | Specific type of data pipeline focused on extracting, transforming, and loading data.                                                 |
 | **Components**           | May include ingestion, transformation, storage, and delivery.                                                                     | Specifically includes Extract, Transform, and Load stages.                                                                            |
